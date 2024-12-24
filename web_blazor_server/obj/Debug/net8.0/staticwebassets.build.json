@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "UJgFsyA358x0B4DJBa68ok7Y8nb0FzzzjGW/RDaLodA=",
+  "Hash": "Ou/8y66/T1XC5ZdnI2zrOI/hWkLj7l9iwfJE4JvZTUg=",
   "Source": "web_blazor_server",
   "BasePath": "_content/web_blazor_server",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "web_blazor_server\\wwwroot",
       "Source": "web_blazor_server",
-      "ContentRoot": "C:\\Users\\DELL\\Downloads\\Documents\\CPS\\DOTNET_01\\CodeTrenLop\\BUOI24_BLAZOR\\web_blazor_server\\wwwroot\\",
+      "ContentRoot": "c:\\Users\\DELL\\Downloads\\Documents\\CPS\\DOTNET_01\\CodeTrenLop\\BUOI24_BLAZOR\\web_blazor_server\\wwwroot\\",
       "BasePath": "_content/web_blazor_server",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\DELL\\Downloads\\Documents\\CPS\\DOTNET_01\\CodeTrenLop\\BUOI24_BLAZOR\\web_blazor_server\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "Identity": "c:\\Users\\DELL\\Downloads\\Documents\\CPS\\DOTNET_01\\CodeTrenLop\\BUOI24_BLAZOR\\web_blazor_server\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
       "SourceId": "web_blazor_server",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\Downloads\\Documents\\CPS\\DOTNET_01\\CodeTrenLop\\BUOI24_BLAZOR\\web_blazor_server\\wwwroot\\",
+      "ContentRoot": "c:\\Users\\DELL\\Downloads\\Documents\\CPS\\DOTNET_01\\CodeTrenLop\\BUOI24_BLAZOR\\web_blazor_server\\wwwroot\\",
       "BasePath": "_content/web_blazor_server",
       "RelativePath": "css/bootstrap/bootstrap.min.css",
       "AssetKind": "All",
@@ -36,10 +36,10 @@
       "OriginalItemSpec": "wwwroot\\css\\bootstrap\\bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\DELL\\Downloads\\Documents\\CPS\\DOTNET_01\\CodeTrenLop\\BUOI24_BLAZOR\\web_blazor_server\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "Identity": "c:\\Users\\DELL\\Downloads\\Documents\\CPS\\DOTNET_01\\CodeTrenLop\\BUOI24_BLAZOR\\web_blazor_server\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
       "SourceId": "web_blazor_server",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\Downloads\\Documents\\CPS\\DOTNET_01\\CodeTrenLop\\BUOI24_BLAZOR\\web_blazor_server\\wwwroot\\",
+      "ContentRoot": "c:\\Users\\DELL\\Downloads\\Documents\\CPS\\DOTNET_01\\CodeTrenLop\\BUOI24_BLAZOR\\web_blazor_server\\wwwroot\\",
       "BasePath": "_content/web_blazor_server",
       "RelativePath": "css/bootstrap/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -55,10 +55,10 @@
       "OriginalItemSpec": "wwwroot\\css\\bootstrap\\bootstrap.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\DELL\\Downloads\\Documents\\CPS\\DOTNET_01\\CodeTrenLop\\BUOI24_BLAZOR\\web_blazor_server\\wwwroot\\css\\open-iconic\\FONT-LICENSE",
+      "Identity": "c:\\Users\\DELL\\Downloads\\Documents\\CPS\\DOTNET_01\\CodeTrenLop\\BUOI24_BLAZOR\\web_blazor_server\\wwwroot\\css\\open-iconic\\FONT-LICENSE",
       "SourceId": "web_blazor_server",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\Downloads\\Documents\\CPS\\DOTNET_01\\CodeTrenLop\\BUOI24_BLAZOR\\web_blazor_server\\wwwroot\\",
+      "ContentRoot": "c:\\Users\\DELL\\Downloads\\Documents\\CPS\\DOTNET_01\\CodeTrenLop\\BUOI24_BLAZOR\\web_blazor_server\\wwwroot\\",
       "BasePath": "_content/web_blazor_server",
       "RelativePath": "css/open-iconic/FONT-LICENSE",
       "AssetKind": "All",
@@ -74,10 +74,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\FONT-LICENSE"
     },
     {
-      "Identity": "C:\\Users\\DELL\\Downloads\\Documents\\CPS\\DOTNET_01\\CodeTrenLop\\BUOI24_BLAZOR\\web_blazor_server\\wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css",
+      "Identity": "c:\\Users\\DELL\\Downloads\\Documents\\CPS\\DOTNET_01\\CodeTrenLop\\BUOI24_BLAZOR\\web_blazor_server\\wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css",
       "SourceId": "web_blazor_server",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\Downloads\\Documents\\CPS\\DOTNET_01\\CodeTrenLop\\BUOI24_BLAZOR\\web_blazor_server\\wwwroot\\",
+      "ContentRoot": "c:\\Users\\DELL\\Downloads\\Documents\\CPS\\DOTNET_01\\CodeTrenLop\\BUOI24_BLAZOR\\web_blazor_server\\wwwroot\\",
       "BasePath": "_content/web_blazor_server",
       "RelativePath": "css/open-iconic/font/css/open-iconic-bootstrap.min.css",
       "AssetKind": "All",
@@ -93,10 +93,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\DELL\\Downloads\\Documents\\CPS\\DOTNET_01\\CodeTrenLop\\BUOI24_BLAZOR\\web_blazor_server\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot",
+      "Identity": "c:\\Users\\DELL\\Downloads\\Documents\\CPS\\DOTNET_01\\CodeTrenLop\\BUOI24_BLAZOR\\web_blazor_server\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot",
       "SourceId": "web_blazor_server",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\Downloads\\Documents\\CPS\\DOTNET_01\\CodeTrenLop\\BUOI24_BLAZOR\\web_blazor_server\\wwwroot\\",
+      "ContentRoot": "c:\\Users\\DELL\\Downloads\\Documents\\CPS\\DOTNET_01\\CodeTrenLop\\BUOI24_BLAZOR\\web_blazor_server\\wwwroot\\",
       "BasePath": "_content/web_blazor_server",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.eot",
       "AssetKind": "All",
@@ -112,10 +112,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot"
     },
     {
-      "Identity": "C:\\Users\\DELL\\Downloads\\Documents\\CPS\\DOTNET_01\\CodeTrenLop\\BUOI24_BLAZOR\\web_blazor_server\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf",
+      "Identity": "c:\\Users\\DELL\\Downloads\\Documents\\CPS\\DOTNET_01\\CodeTrenLop\\BUOI24_BLAZOR\\web_blazor_server\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf",
       "SourceId": "web_blazor_server",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\Downloads\\Documents\\CPS\\DOTNET_01\\CodeTrenLop\\BUOI24_BLAZOR\\web_blazor_server\\wwwroot\\",
+      "ContentRoot": "c:\\Users\\DELL\\Downloads\\Documents\\CPS\\DOTNET_01\\CodeTrenLop\\BUOI24_BLAZOR\\web_blazor_server\\wwwroot\\",
       "BasePath": "_content/web_blazor_server",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.otf",
       "AssetKind": "All",
@@ -131,10 +131,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf"
     },
     {
-      "Identity": "C:\\Users\\DELL\\Downloads\\Documents\\CPS\\DOTNET_01\\CodeTrenLop\\BUOI24_BLAZOR\\web_blazor_server\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg",
+      "Identity": "c:\\Users\\DELL\\Downloads\\Documents\\CPS\\DOTNET_01\\CodeTrenLop\\BUOI24_BLAZOR\\web_blazor_server\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg",
       "SourceId": "web_blazor_server",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\Downloads\\Documents\\CPS\\DOTNET_01\\CodeTrenLop\\BUOI24_BLAZOR\\web_blazor_server\\wwwroot\\",
+      "ContentRoot": "c:\\Users\\DELL\\Downloads\\Documents\\CPS\\DOTNET_01\\CodeTrenLop\\BUOI24_BLAZOR\\web_blazor_server\\wwwroot\\",
       "BasePath": "_content/web_blazor_server",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.svg",
       "AssetKind": "All",
@@ -150,10 +150,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg"
     },
     {
-      "Identity": "C:\\Users\\DELL\\Downloads\\Documents\\CPS\\DOTNET_01\\CodeTrenLop\\BUOI24_BLAZOR\\web_blazor_server\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf",
+      "Identity": "c:\\Users\\DELL\\Downloads\\Documents\\CPS\\DOTNET_01\\CodeTrenLop\\BUOI24_BLAZOR\\web_blazor_server\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf",
       "SourceId": "web_blazor_server",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\Downloads\\Documents\\CPS\\DOTNET_01\\CodeTrenLop\\BUOI24_BLAZOR\\web_blazor_server\\wwwroot\\",
+      "ContentRoot": "c:\\Users\\DELL\\Downloads\\Documents\\CPS\\DOTNET_01\\CodeTrenLop\\BUOI24_BLAZOR\\web_blazor_server\\wwwroot\\",
       "BasePath": "_content/web_blazor_server",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.ttf",
       "AssetKind": "All",
@@ -169,10 +169,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf"
     },
     {
-      "Identity": "C:\\Users\\DELL\\Downloads\\Documents\\CPS\\DOTNET_01\\CodeTrenLop\\BUOI24_BLAZOR\\web_blazor_server\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff",
+      "Identity": "c:\\Users\\DELL\\Downloads\\Documents\\CPS\\DOTNET_01\\CodeTrenLop\\BUOI24_BLAZOR\\web_blazor_server\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff",
       "SourceId": "web_blazor_server",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\Downloads\\Documents\\CPS\\DOTNET_01\\CodeTrenLop\\BUOI24_BLAZOR\\web_blazor_server\\wwwroot\\",
+      "ContentRoot": "c:\\Users\\DELL\\Downloads\\Documents\\CPS\\DOTNET_01\\CodeTrenLop\\BUOI24_BLAZOR\\web_blazor_server\\wwwroot\\",
       "BasePath": "_content/web_blazor_server",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.woff",
       "AssetKind": "All",
@@ -188,10 +188,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff"
     },
     {
-      "Identity": "C:\\Users\\DELL\\Downloads\\Documents\\CPS\\DOTNET_01\\CodeTrenLop\\BUOI24_BLAZOR\\web_blazor_server\\wwwroot\\css\\open-iconic\\ICON-LICENSE",
+      "Identity": "c:\\Users\\DELL\\Downloads\\Documents\\CPS\\DOTNET_01\\CodeTrenLop\\BUOI24_BLAZOR\\web_blazor_server\\wwwroot\\css\\open-iconic\\ICON-LICENSE",
       "SourceId": "web_blazor_server",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\Downloads\\Documents\\CPS\\DOTNET_01\\CodeTrenLop\\BUOI24_BLAZOR\\web_blazor_server\\wwwroot\\",
+      "ContentRoot": "c:\\Users\\DELL\\Downloads\\Documents\\CPS\\DOTNET_01\\CodeTrenLop\\BUOI24_BLAZOR\\web_blazor_server\\wwwroot\\",
       "BasePath": "_content/web_blazor_server",
       "RelativePath": "css/open-iconic/ICON-LICENSE",
       "AssetKind": "All",
@@ -207,10 +207,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\ICON-LICENSE"
     },
     {
-      "Identity": "C:\\Users\\DELL\\Downloads\\Documents\\CPS\\DOTNET_01\\CodeTrenLop\\BUOI24_BLAZOR\\web_blazor_server\\wwwroot\\css\\open-iconic\\README.md",
+      "Identity": "c:\\Users\\DELL\\Downloads\\Documents\\CPS\\DOTNET_01\\CodeTrenLop\\BUOI24_BLAZOR\\web_blazor_server\\wwwroot\\css\\open-iconic\\README.md",
       "SourceId": "web_blazor_server",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\Downloads\\Documents\\CPS\\DOTNET_01\\CodeTrenLop\\BUOI24_BLAZOR\\web_blazor_server\\wwwroot\\",
+      "ContentRoot": "c:\\Users\\DELL\\Downloads\\Documents\\CPS\\DOTNET_01\\CodeTrenLop\\BUOI24_BLAZOR\\web_blazor_server\\wwwroot\\",
       "BasePath": "_content/web_blazor_server",
       "RelativePath": "css/open-iconic/README.md",
       "AssetKind": "All",
@@ -226,10 +226,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\README.md"
     },
     {
-      "Identity": "C:\\Users\\DELL\\Downloads\\Documents\\CPS\\DOTNET_01\\CodeTrenLop\\BUOI24_BLAZOR\\web_blazor_server\\wwwroot\\css\\site.css",
+      "Identity": "c:\\Users\\DELL\\Downloads\\Documents\\CPS\\DOTNET_01\\CodeTrenLop\\BUOI24_BLAZOR\\web_blazor_server\\wwwroot\\css\\site.css",
       "SourceId": "web_blazor_server",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\Downloads\\Documents\\CPS\\DOTNET_01\\CodeTrenLop\\BUOI24_BLAZOR\\web_blazor_server\\wwwroot\\",
+      "ContentRoot": "c:\\Users\\DELL\\Downloads\\Documents\\CPS\\DOTNET_01\\CodeTrenLop\\BUOI24_BLAZOR\\web_blazor_server\\wwwroot\\",
       "BasePath": "_content/web_blazor_server",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -245,10 +245,10 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-      "Identity": "C:\\Users\\DELL\\Downloads\\Documents\\CPS\\DOTNET_01\\CodeTrenLop\\BUOI24_BLAZOR\\web_blazor_server\\wwwroot\\favicon.ico",
+      "Identity": "c:\\Users\\DELL\\Downloads\\Documents\\CPS\\DOTNET_01\\CodeTrenLop\\BUOI24_BLAZOR\\web_blazor_server\\wwwroot\\favicon.ico",
       "SourceId": "web_blazor_server",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\Downloads\\Documents\\CPS\\DOTNET_01\\CodeTrenLop\\BUOI24_BLAZOR\\web_blazor_server\\wwwroot\\",
+      "ContentRoot": "c:\\Users\\DELL\\Downloads\\Documents\\CPS\\DOTNET_01\\CodeTrenLop\\BUOI24_BLAZOR\\web_blazor_server\\wwwroot\\",
       "BasePath": "_content/web_blazor_server",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",

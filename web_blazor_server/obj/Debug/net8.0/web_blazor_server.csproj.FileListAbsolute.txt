@@ -1,10 +1,10 @@
-C:\Users\DELL\Downloads\Documents\CPS\DOTNET_01\CodeTrenLop\BUOI24_BLAZOR\web_blazor_server\bin\Debug\net8.0\web_blazor_server.exe
-C:\Users\DELL\Downloads\Documents\CPS\DOTNET_01\CodeTrenLop\BUOI24_BLAZOR\web_blazor_server\bin\Debug\net8.0\web_blazor_server.dll
 C:\Users\DELL\Downloads\Documents\CPS\DOTNET_01\CodeTrenLop\BUOI24_BLAZOR\web_blazor_server\bin\Debug\net8.0\appsettings.Development.json
 C:\Users\DELL\Downloads\Documents\CPS\DOTNET_01\CodeTrenLop\BUOI24_BLAZOR\web_blazor_server\bin\Debug\net8.0\appsettings.json
 C:\Users\DELL\Downloads\Documents\CPS\DOTNET_01\CodeTrenLop\BUOI24_BLAZOR\web_blazor_server\bin\Debug\net8.0\web_blazor_server.staticwebassets.runtime.json
+C:\Users\DELL\Downloads\Documents\CPS\DOTNET_01\CodeTrenLop\BUOI24_BLAZOR\web_blazor_server\bin\Debug\net8.0\web_blazor_server.exe
 C:\Users\DELL\Downloads\Documents\CPS\DOTNET_01\CodeTrenLop\BUOI24_BLAZOR\web_blazor_server\bin\Debug\net8.0\web_blazor_server.deps.json
 C:\Users\DELL\Downloads\Documents\CPS\DOTNET_01\CodeTrenLop\BUOI24_BLAZOR\web_blazor_server\bin\Debug\net8.0\web_blazor_server.runtimeconfig.json
+C:\Users\DELL\Downloads\Documents\CPS\DOTNET_01\CodeTrenLop\BUOI24_BLAZOR\web_blazor_server\bin\Debug\net8.0\web_blazor_server.dll
 C:\Users\DELL\Downloads\Documents\CPS\DOTNET_01\CodeTrenLop\BUOI24_BLAZOR\web_blazor_server\bin\Debug\net8.0\web_blazor_server.pdb
 C:\Users\DELL\Downloads\Documents\CPS\DOTNET_01\CodeTrenLop\BUOI24_BLAZOR\web_blazor_server\obj\Debug\net8.0\web_blazor_server.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\DELL\Downloads\Documents\CPS\DOTNET_01\CodeTrenLop\BUOI24_BLAZOR\web_blazor_server\obj\Debug\net8.0\web_blazor_server.AssemblyInfoInputs.cache
@@ -13,6 +13,7 @@ C:\Users\DELL\Downloads\Documents\CPS\DOTNET_01\CodeTrenLop\BUOI24_BLAZOR\web_bl
 C:\Users\DELL\Downloads\Documents\CPS\DOTNET_01\CodeTrenLop\BUOI24_BLAZOR\web_blazor_server\obj\Debug\net8.0\web_blazor_server.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\DELL\Downloads\Documents\CPS\DOTNET_01\CodeTrenLop\BUOI24_BLAZOR\web_blazor_server\obj\Debug\net8.0\web_blazor_server.RazorAssemblyInfo.cache
 C:\Users\DELL\Downloads\Documents\CPS\DOTNET_01\CodeTrenLop\BUOI24_BLAZOR\web_blazor_server\obj\Debug\net8.0\web_blazor_server.RazorAssemblyInfo.cs
+C:\Users\DELL\Downloads\Documents\CPS\DOTNET_01\CodeTrenLop\BUOI24_BLAZOR\web_blazor_server\obj\Debug\net8.0\web_blazor_server.sourcelink.json
 C:\Users\DELL\Downloads\Documents\CPS\DOTNET_01\CodeTrenLop\BUOI24_BLAZOR\web_blazor_server\obj\Debug\net8.0\staticwebassets.build.json
 C:\Users\DELL\Downloads\Documents\CPS\DOTNET_01\CodeTrenLop\BUOI24_BLAZOR\web_blazor_server\obj\Debug\net8.0\staticwebassets.development.json
 C:\Users\DELL\Downloads\Documents\CPS\DOTNET_01\CodeTrenLop\BUOI24_BLAZOR\web_blazor_server\obj\Debug\net8.0\staticwebassets\msbuild.web_blazor_server.Microsoft.AspNetCore.StaticWebAssets.props

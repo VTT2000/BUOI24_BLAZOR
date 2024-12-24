@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\DELL\\Downloads\\Documents\\CPS\\DOTNET_01\\CodeTrenLop\\BUOI24_BLAZOR\\web_blazor_server\\web_blazor_server.csproj": {}
+    "c:\\Users\\DELL\\Downloads\\Documents\\CPS\\DOTNET_01\\CodeTrenLop\\BUOI24_BLAZOR\\web_blazor_server\\web_blazor_server.csproj": {}
   },
   "projects": {
-    "C:\\Users\\DELL\\Downloads\\Documents\\CPS\\DOTNET_01\\CodeTrenLop\\BUOI24_BLAZOR\\web_blazor_server\\web_blazor_server.csproj": {
+    "c:\\Users\\DELL\\Downloads\\Documents\\CPS\\DOTNET_01\\CodeTrenLop\\BUOI24_BLAZOR\\web_blazor_server\\web_blazor_server.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\DELL\\Downloads\\Documents\\CPS\\DOTNET_01\\CodeTrenLop\\BUOI24_BLAZOR\\web_blazor_server\\web_blazor_server.csproj",
+        "projectUniqueName": "c:\\Users\\DELL\\Downloads\\Documents\\CPS\\DOTNET_01\\CodeTrenLop\\BUOI24_BLAZOR\\web_blazor_server\\web_blazor_server.csproj",
         "projectName": "web_blazor_server",
-        "projectPath": "C:\\Users\\DELL\\Downloads\\Documents\\CPS\\DOTNET_01\\CodeTrenLop\\BUOI24_BLAZOR\\web_blazor_server\\web_blazor_server.csproj",
+        "projectPath": "c:\\Users\\DELL\\Downloads\\Documents\\CPS\\DOTNET_01\\CodeTrenLop\\BUOI24_BLAZOR\\web_blazor_server\\web_blazor_server.csproj",
         "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\DELL\\Downloads\\Documents\\CPS\\DOTNET_01\\CodeTrenLop\\BUOI24_BLAZOR\\web_blazor_server\\obj\\",
+        "outputPath": "c:\\Users\\DELL\\Downloads\\Documents\\CPS\\DOTNET_01\\CodeTrenLop\\BUOI24_BLAZOR\\web_blazor_server\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config"
