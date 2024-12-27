@@ -1,6 +1,6 @@
 <!-- Modal trigger button -->
 <button type="button" class="btn btn-primary btn-lg" data-bs-toggle="modal" data-bs-target="#modal-cart">
-    <i class="fa fa-cart-plus"></i> Cart(1)
+    <i class="fa fa-cart-plus"></i> Cart(@lstCartItem.Sum(p=>p.Quantity))
 </button>
 <!-- Modal Body -->
 <!-- if you want to close by clicking outside the modal, delete the last endpoint:data-bs-backdrop and data-bs-keyboard -->
@@ -41,7 +41,7 @@
                                 @{double total = item.Price * item.Quantity;}
                                 <td>@total</td>
                                 <td>
-                                    <button class="btn btn-danger">
+                                    <button class="btn btn-danger" @onclick="(e) => DeleteCart(item)">
                                         <i class="fa fa-trash"></i>
                                     </button>
                                 </td>
@@ -64,4 +64,10 @@
     [Parameter]
     public List<CartItemVM> lstCartItem { get; set; }
 
+    [Parameter]
+    public EventCallback<CartItemVM> eventDeleteCart { get; set; }
+
+    void DeleteCart(CartItemVM itemVM){
+        eventDeleteCart.InvokeAsync(itemVM);
+    }
 }

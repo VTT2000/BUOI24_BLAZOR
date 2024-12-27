@@ -5,7 +5,7 @@
         <p class="card-text">@prodProp.Price</p>
         <button class="btn btn-success"  data-bs-toggle="modal"
     data-bs-target="#modalId" @onclick="ViewDetail">Detail</button>
-        <button class="btn btn-dark">
+        <button class="btn btn-dark" @onclick="AddCart">
             <i class="fa fa-cart-plus"></i> Add to cart
         </button>
     </div>
@@ -15,6 +15,13 @@
     public ProductCarVM prodProp {get;set;} = new ProductCarVM();
     [Parameter]
     public EventCallback<ProductCarVM> eventClickDetail {get;set;}
+    [Parameter]
+    public EventCallback<ProductCarVM> eventAddCart {get;set;}
+    
+    void AddCart(){
+        eventAddCart.InvokeAsync(prodProp);
+    }
+
     void ViewDetail() {
         eventClickDetail.InvokeAsync(prodProp);
     }

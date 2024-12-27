@@ -3,12 +3,12 @@
 
 <div class="container">
     <div class="text-end mt-2">
-        <CartModal lstCartItem="lstCartItem" />
+        <CartModal lstCartItem="lstCartItem" eventDeleteCart="DeleteCart" />
 
     </div>
 
     <Modal prodDetail="@proDetailModal" />
-    <ProductList LstProduct="@LstProduct" eventClickDetail="ChangeCarModal" />
+    <ProductList LstProduct="@LstProduct" eventClickDetail="ChangeCarModal" eventAddCart="AddCart" />
 </div>
 
 @code {
@@ -21,9 +21,31 @@
         1000
         };
     List<CartItemVM> lstCartItem = new List<CartItemVM>() {
-    new CartItemVM() {Id="1",Name="Black car", Img="/images/black-car.jpg",Price=1000,Quantity=10}
+    @* new CartItemVM() {Id="1",Name="Black car", Img="/images/black-car.jpg",Price=1000,Quantity=10} *@
     };
 
+    void AddCart(ProductCarVM productCarVM){
+        bool add = true;
+        for(int i=0;i<lstCartItem.Count;i++){
+            if(lstCartItem[i].Name.Equals(productCarVM.Name)){
+                lstCartItem[i].Quantity += 1;
+                add = false;
+            }
+        }
+        if(add){
+            lstCartItem.Add(new CartItemVM(){
+                Id = productCarVM.Id,
+                Name = productCarVM.Name,
+                Img = productCarVM.Img,
+                Price = productCarVM.Price,
+                Quantity = 1
+            });
+        }
+    }
+
+    void DeleteCart(CartItemVM cartItemVM){
+        lstCartItem.Remove(cartItemVM);
+    }
 
 
     void ChangeCarModal(ProductCarVM prodClick)
