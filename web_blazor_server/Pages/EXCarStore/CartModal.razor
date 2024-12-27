@@ -1,3 +1,4 @@
+@using System.Globalization
 <!-- Modal trigger button -->
 <button type="button" class="btn btn-primary btn-lg" data-bs-toggle="modal" data-bs-target="#modal-cart">
     <i class="fa fa-cart-plus"></i> Cart(@lstCartItem.Sum(p=>p.Quantity))
@@ -36,10 +37,15 @@
                                 <td>
                                     <img src="@item.Img" width="50" height="50" alt="red-car" />
                                 </td>
-                                <td>@item.Price</td>
-                                <td>@item.Quantity</td>
+                                <td>@item.Price.ToString("N", CultureInfo.GetCultureInfo("en-US"))</td>
+                                <td>
+                                    @* @item.Quantity *@
+                                    <input class="text-center w-50 form-control d-inline-block" type="number" min="0" step="1" value="@item.Quantity" @onchange ="@(e=>ChangeQuantity(e, item))" >
+                                </td>
                                 @{double total = item.Price * item.Quantity;}
-                                <td>@total</td>
+                                <td>
+                                    @total.ToString("N", CultureInfo.GetCultureInfo("en-US"))
+                                </td>
                                 <td>
                                     <button class="btn btn-danger" @onclick="(e) => DeleteCart(item)">
                                         <i class="fa fa-trash"></i>
@@ -63,11 +69,18 @@
 @code {
     [Parameter]
     public List<CartItemVM> lstCartItem { get; set; }
-
     [Parameter]
     public EventCallback<CartItemVM> eventDeleteCart { get; set; }
+    [Parameter]
+    public EventCallback<CartItemVM> eventChangeQuantity { get; set; }
 
     void DeleteCart(CartItemVM itemVM){
         eventDeleteCart.InvokeAsync(itemVM);
     }
+
+    void ChangeQuantity(ChangeEventArgs e, CartItemVM itemVM){
+        itemVM.Quantity = Convert.ToDouble((string) e.Value);
+        eventChangeQuantity.InvokeAsync(itemVM);
+    }
+
 }

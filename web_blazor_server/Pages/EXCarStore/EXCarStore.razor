@@ -1,10 +1,10 @@
 @page "/ex-carstore"
 @layout HomeMasterPage
+@using System.Text.Json
 
 <div class="container">
     <div class="text-end mt-2">
-        <CartModal lstCartItem="lstCartItem" eventDeleteCart="DeleteCart" />
-
+        <CartModal lstCartItem="lstCartItem" eventDeleteCart="DeleteCart" eventChangeQuantity="ChangeQuantity" />
     </div>
 
     <Modal prodDetail="@proDetailModal" />
@@ -47,6 +47,15 @@
         lstCartItem.Remove(cartItemVM);
     }
 
+    void ChangeQuantity(CartItemVM cartItemVM){
+        for(int i=0;i<lstCartItem.Count;i++){
+            if(lstCartItem[i].Name.Equals(cartItemVM.Name)){
+                lstCartItem[i].Quantity = cartItemVM.Quantity;
+                // lstCartItem[i] = cartItemVM;
+            }
+        }
+        Console.WriteLine(JsonSerializer.Serialize(lstCartItem));
+    }
 
     void ChangeCarModal(ProductCarVM prodClick)
     {
