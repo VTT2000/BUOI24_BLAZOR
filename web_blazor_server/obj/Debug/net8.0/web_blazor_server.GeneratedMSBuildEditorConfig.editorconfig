@@ -9,103 +9,115 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = web_blazor_server
 build_property.RootNamespace = web_blazor_server
-build_property.ProjectDir = C:\Users\DELL\Downloads\Documents\CPS\DOTNET_01\CodeTrenLop\BUOI24_BLAZOR\web_blazor_server\
+build_property.ProjectDir = c:\Users\DELL\Downloads\Documents\CPS\DOTNET_01\CodeTrenLop\BUOI24_BLAZOR\web_blazor_server\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\DELL\Downloads\Documents\CPS\DOTNET_01\CodeTrenLop\BUOI24_BLAZOR\web_blazor_server
+build_property.MSBuildProjectDirectory = c:\Users\DELL\Downloads\Documents\CPS\DOTNET_01\CodeTrenLop\BUOI24_BLAZOR\web_blazor_server
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/DELL/Downloads/Documents/CPS/DOTNET_01/CodeTrenLop/BUOI24_BLAZOR/web_blazor_server/App.razor]
+[c:/Users/DELL/Downloads/Documents/CPS/DOTNET_01/CodeTrenLop/BUOI24_BLAZOR/web_blazor_server/App.razor]
 build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/DELL/Downloads/Documents/CPS/DOTNET_01/CodeTrenLop/BUOI24_BLAZOR/web_blazor_server/Pages/ComponentParam.razor]
+[c:/Users/DELL/Downloads/Documents/CPS/DOTNET_01/CodeTrenLop/BUOI24_BLAZOR/web_blazor_server/Pages/ComponentParam.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ29tcG9uZW50UGFyYW0ucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/DELL/Downloads/Documents/CPS/DOTNET_01/CodeTrenLop/BUOI24_BLAZOR/web_blazor_server/Pages/Components/CardItem.razor]
+[c:/Users/DELL/Downloads/Documents/CPS/DOTNET_01/CodeTrenLop/BUOI24_BLAZOR/web_blazor_server/Pages/Components/CardItem.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ29tcG9uZW50c1xDYXJkSXRlbS5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/DELL/Downloads/Documents/CPS/DOTNET_01/CodeTrenLop/BUOI24_BLAZOR/web_blazor_server/Pages/Components/HeaderHome.razor]
+[c:/Users/DELL/Downloads/Documents/CPS/DOTNET_01/CodeTrenLop/BUOI24_BLAZOR/web_blazor_server/Pages/Components/HeaderHome.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ29tcG9uZW50c1xIZWFkZXJIb21lLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/DELL/Downloads/Documents/CPS/DOTNET_01/CodeTrenLop/BUOI24_BLAZOR/web_blazor_server/Pages/Components/PopupModel.razor]
+[c:/Users/DELL/Downloads/Documents/CPS/DOTNET_01/CodeTrenLop/BUOI24_BLAZOR/web_blazor_server/Pages/Components/PopupModel.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ29tcG9uZW50c1xQb3B1cE1vZGVsLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/DELL/Downloads/Documents/CPS/DOTNET_01/CodeTrenLop/BUOI24_BLAZOR/web_blazor_server/Pages/Databinding.razor]
+[c:/Users/DELL/Downloads/Documents/CPS/DOTNET_01/CodeTrenLop/BUOI24_BLAZOR/web_blazor_server/Pages/Databinding.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRGF0YWJpbmRpbmcucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/DELL/Downloads/Documents/CPS/DOTNET_01/CodeTrenLop/BUOI24_BLAZOR/web_blazor_server/Pages/EXCarStore/CartModal.razor]
+[c:/Users/DELL/Downloads/Documents/CPS/DOTNET_01/CodeTrenLop/BUOI24_BLAZOR/web_blazor_server/Pages/EXCarStore/CartModal.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRVhDYXJTdG9yZVxDYXJ0TW9kYWwucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/DELL/Downloads/Documents/CPS/DOTNET_01/CodeTrenLop/BUOI24_BLAZOR/web_blazor_server/Pages/EXCarStore/EXCarStore.razor]
+[c:/Users/DELL/Downloads/Documents/CPS/DOTNET_01/CodeTrenLop/BUOI24_BLAZOR/web_blazor_server/Pages/EXCarStore/EXCarStore.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRVhDYXJTdG9yZVxFWENhclN0b3JlLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/DELL/Downloads/Documents/CPS/DOTNET_01/CodeTrenLop/BUOI24_BLAZOR/web_blazor_server/Pages/EXCarStore/Modal.razor]
+[c:/Users/DELL/Downloads/Documents/CPS/DOTNET_01/CodeTrenLop/BUOI24_BLAZOR/web_blazor_server/Pages/EXCarStore/Modal.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRVhDYXJTdG9yZVxNb2RhbC5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/DELL/Downloads/Documents/CPS/DOTNET_01/CodeTrenLop/BUOI24_BLAZOR/web_blazor_server/Pages/EXCarStore/ProductItem.razor]
+[c:/Users/DELL/Downloads/Documents/CPS/DOTNET_01/CodeTrenLop/BUOI24_BLAZOR/web_blazor_server/Pages/EXCarStore/ProductItem.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRVhDYXJTdG9yZVxQcm9kdWN0SXRlbS5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/DELL/Downloads/Documents/CPS/DOTNET_01/CodeTrenLop/BUOI24_BLAZOR/web_blazor_server/Pages/EXCarStore/ProductList.razor]
+[c:/Users/DELL/Downloads/Documents/CPS/DOTNET_01/CodeTrenLop/BUOI24_BLAZOR/web_blazor_server/Pages/EXCarStore/ProductList.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRVhDYXJTdG9yZVxQcm9kdWN0TGlzdC5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/DELL/Downloads/Documents/CPS/DOTNET_01/CodeTrenLop/BUOI24_BLAZOR/web_blazor_server/Pages/FormValidation.razor]
+[c:/Users/DELL/Downloads/Documents/CPS/DOTNET_01/CodeTrenLop/BUOI24_BLAZOR/web_blazor_server/Pages/FormValidation.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRm9ybVZhbGlkYXRpb24ucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/DELL/Downloads/Documents/CPS/DOTNET_01/CodeTrenLop/BUOI24_BLAZOR/web_blazor_server/Pages/HandleEvent.razor]
+[c:/Users/DELL/Downloads/Documents/CPS/DOTNET_01/CodeTrenLop/BUOI24_BLAZOR/web_blazor_server/Pages/HandleEvent.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSGFuZGxlRXZlbnQucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/DELL/Downloads/Documents/CPS/DOTNET_01/CodeTrenLop/BUOI24_BLAZOR/web_blazor_server/Pages/Index.razor]
+[c:/Users/DELL/Downloads/Documents/CPS/DOTNET_01/CodeTrenLop/BUOI24_BLAZOR/web_blazor_server/Pages/Index.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXgucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/DELL/Downloads/Documents/CPS/DOTNET_01/CodeTrenLop/BUOI24_BLAZOR/web_blazor_server/Pages/Login.razor]
+[c:/Users/DELL/Downloads/Documents/CPS/DOTNET_01/CodeTrenLop/BUOI24_BLAZOR/web_blazor_server/Pages/LifeCycle/Oninit/DemoOninit.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTGlmZUN5Y2xlXE9uaW5pdFxEZW1vT25pbml0LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/DELL/Downloads/Documents/CPS/DOTNET_01/CodeTrenLop/BUOI24_BLAZOR/web_blazor_server/Pages/Login.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTG9naW4ucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/DELL/Downloads/Documents/CPS/DOTNET_01/CodeTrenLop/BUOI24_BLAZOR/web_blazor_server/Pages/ParamEventCallback/ProductCard.razor]
+[c:/Users/DELL/Downloads/Documents/CPS/DOTNET_01/CodeTrenLop/BUOI24_BLAZOR/web_blazor_server/Pages/ParamEventCallback/ProductCard.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUGFyYW1FdmVudENhbGxiYWNrXFByb2R1Y3RDYXJkLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/DELL/Downloads/Documents/CPS/DOTNET_01/CodeTrenLop/BUOI24_BLAZOR/web_blazor_server/Pages/ParamEventCallback/ProductDetail.razor]
+[c:/Users/DELL/Downloads/Documents/CPS/DOTNET_01/CodeTrenLop/BUOI24_BLAZOR/web_blazor_server/Pages/ParamEventCallback/ProductDetail.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUGFyYW1FdmVudENhbGxiYWNrXFByb2R1Y3REZXRhaWwucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/DELL/Downloads/Documents/CPS/DOTNET_01/CodeTrenLop/BUOI24_BLAZOR/web_blazor_server/Pages/Register.razor]
+[c:/Users/DELL/Downloads/Documents/CPS/DOTNET_01/CodeTrenLop/BUOI24_BLAZOR/web_blazor_server/Pages/RefDemo/PersonCard.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUmVmRGVtb1xQZXJzb25DYXJkLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/DELL/Downloads/Documents/CPS/DOTNET_01/CodeTrenLop/BUOI24_BLAZOR/web_blazor_server/Pages/RefDemo/RefDemo.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUmVmRGVtb1xSZWZEZW1vLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/DELL/Downloads/Documents/CPS/DOTNET_01/CodeTrenLop/BUOI24_BLAZOR/web_blazor_server/Pages/Register.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUmVnaXN0ZXIucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/DELL/Downloads/Documents/CPS/DOTNET_01/CodeTrenLop/BUOI24_BLAZOR/web_blazor_server/Pages/TwoWayBinding.razor]
+[c:/Users/DELL/Downloads/Documents/CPS/DOTNET_01/CodeTrenLop/BUOI24_BLAZOR/web_blazor_server/Pages/TwoWayBinding.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVHdvV2F5QmluZGluZy5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/DELL/Downloads/Documents/CPS/DOTNET_01/CodeTrenLop/BUOI24_BLAZOR/web_blazor_server/Shared/AdminMasterPage.razor]
+[c:/Users/DELL/Downloads/Documents/CPS/DOTNET_01/CodeTrenLop/BUOI24_BLAZOR/web_blazor_server/Shared/AdminMasterPage.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXEFkbWluTWFzdGVyUGFnZS5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/DELL/Downloads/Documents/CPS/DOTNET_01/CodeTrenLop/BUOI24_BLAZOR/web_blazor_server/Shared/HomeMasterPage.razor]
+[c:/Users/DELL/Downloads/Documents/CPS/DOTNET_01/CodeTrenLop/BUOI24_BLAZOR/web_blazor_server/Shared/HomeMasterPage.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXEhvbWVNYXN0ZXJQYWdlLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/DELL/Downloads/Documents/CPS/DOTNET_01/CodeTrenLop/BUOI24_BLAZOR/web_blazor_server/_Imports.razor]
+[c:/Users/DELL/Downloads/Documents/CPS/DOTNET_01/CodeTrenLop/BUOI24_BLAZOR/web_blazor_server/_Imports.razor]
 build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/DELL/Downloads/Documents/CPS/DOTNET_01/CodeTrenLop/BUOI24_BLAZOR/web_blazor_server/Pages/_Host.cshtml]
+[c:/Users/DELL/Downloads/Documents/CPS/DOTNET_01/CodeTrenLop/BUOI24_BLAZOR/web_blazor_server/Pages/_Host.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX0hvc3QuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 

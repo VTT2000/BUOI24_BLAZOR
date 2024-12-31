@@ -1,8 +1,16 @@
 {
   "version": 2,
-  "dgSpecHash": "VOvoGAIBz2I=",
+  "dgSpecHash": "msMY2KnPqpg=",
   "success": true,
-  "projectFilePath": "C:\\Users\\DELL\\Downloads\\Documents\\CPS\\DOTNET_01\\CodeTrenLop\\BUOI24_BLAZOR\\web_blazor_server\\web_blazor_server.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "c:\\Users\\DELL\\Downloads\\Documents\\CPS\\DOTNET_01\\CodeTrenLop\\BUOI24_BLAZOR\\web_blazor_server\\web_blazor_server.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\DELL\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
+    "C:\\Users\\DELL\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",
+    "C:\\Users\\DELL\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\DELL\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\DELL\\.nuget\\packages\\microsoft.extensions.options\\6.0.0\\microsoft.extensions.options.6.0.0.nupkg.sha512",
+    "C:\\Users\\DELL\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\microsoft.extensions.primitives.6.0.0.nupkg.sha512",
+    "C:\\Users\\DELL\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
   "logs": []
 }
