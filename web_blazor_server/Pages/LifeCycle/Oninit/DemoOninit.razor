@@ -12,11 +12,11 @@
             {
                 <div class="col-4">
                     <div class="card">
-                        <img src="@productModel.img"  alt="..."/>
+                        <img src="@productModel.Img"  alt="..."/>
                     </div>
                     <div class="card-body">
-                        <h3 class="card-title">@productModel.name</h3>
-                        <p class="card-text">@productModel.price</p>
+                        <h3 class="card-title">@productModel.Name</h3>
+                        <p class="card-text">@productModel.Price</p>
                         <button class="btn btn-dark">
                             <i class="fa fa-cart-plus"></i> Add to card
                         </button>
@@ -31,9 +31,10 @@
 @code {
     public List<ProductModel> lstProduct = new List<ProductModel>();
 
-    protected override async Task OnInitializedAsync(){
+    protected override Task OnInitializedAsync(){
         //Hàm sẽ chạy sau khi html của component được render (chạy 1 lần sau khi html được khởi tạo)
         GetDataProduct();
+        return Task.CompletedTask;
     }
     async void GetDataProduct()
     {

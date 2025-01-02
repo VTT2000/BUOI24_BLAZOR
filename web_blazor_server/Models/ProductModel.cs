@@ -12,7 +12,7 @@ public class ProductModel
     public string Name { get; set; }
 
     [JsonPropertyName("price")]
-    public double Price { get; set; }
+    public string Price { get; set; }
 
     [JsonPropertyName("img")]
     public Uri Img { get; set; }
