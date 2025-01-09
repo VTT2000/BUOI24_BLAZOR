@@ -1,0 +1,31 @@
+@page "/jsbazor"
+@layout HomeMasterPage
+@inject IJSRuntime JS;
+<div class="container">
+    <h3>JSBazor</h3>
+    <button class="btn btn-success" @onclick="handleClick">Say hello</button>
+</div>
+
+<script>
+    function sayHello() {
+        console.log("Helllo cybersoft");
+        localStorage.setItem("data","data razor");
+    }
+    function tinhTong(lst) {
+        let tong = 0;
+        for(let item of lst) {
+            tong += item;
+        }
+        return tong;
+    }
+</script>
+@code {
+    async Task handleClick () {
+        await JS.InvokeVoidAsync("sayHello");
+        List<int> ints = new List<int>(){1,2,3};
+        var res = await JS.InvokeAsync<int>("tinhTong",ints);
+        Console.WriteLine(res.ToString());
+    }
+
+
+}
