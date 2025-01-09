@@ -9,6 +9,14 @@
       "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css.map"
     },
     {
+      "Id": "C:\\Users\\DELL\\Downloads\\Documents\\CPS\\DOTNET_01\\CodeTrenLop\\BUOI24_BLAZOR\\web_blazor_server\\wwwroot\\css\\index.css",
+      "PackagePath": "staticwebassets\\css\\index.css"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\Documents\\CPS\\DOTNET_01\\CodeTrenLop\\BUOI24_BLAZOR\\web_blazor_server\\wwwroot\\css\\index.css.map",
+      "PackagePath": "staticwebassets\\css\\index.css.map"
+    },
+    {
       "Id": "C:\\Users\\DELL\\Downloads\\Documents\\CPS\\DOTNET_01\\CodeTrenLop\\BUOI24_BLAZOR\\web_blazor_server\\wwwroot\\css\\open-iconic\\FONT-LICENSE",
       "PackagePath": "staticwebassets\\css\\open-iconic"
     },
@@ -67,6 +75,10 @@
     {
       "Id": "C:\\Users\\DELL\\Downloads\\Documents\\CPS\\DOTNET_01\\CodeTrenLop\\BUOI24_BLAZOR\\web_blazor_server\\wwwroot\\images\\steel-car.jpg",
       "PackagePath": "staticwebassets\\images\\steel-car.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\Downloads\\Documents\\CPS\\DOTNET_01\\CodeTrenLop\\BUOI24_BLAZOR\\web_blazor_server\\wwwroot\\scss\\index.scss",
+      "PackagePath": "staticwebassets\\scss\\index.scss"
     },
     {
       "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.web_blazor_server.props",

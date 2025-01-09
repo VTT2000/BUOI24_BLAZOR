@@ -31,3 +31,5 @@ C:\Users\DELL\Downloads\Documents\CPS\DOTNET_01\CodeTrenLop\BUOI24_BLAZOR\web_bl
 C:\Users\DELL\Downloads\Documents\CPS\DOTNET_01\CodeTrenLop\BUOI24_BLAZOR\web_blazor_server\obj\Debug\net8.0\web_blazor_server.pdb
 C:\Users\DELL\Downloads\Documents\CPS\DOTNET_01\CodeTrenLop\BUOI24_BLAZOR\web_blazor_server\obj\Debug\net8.0\web_blazor_server.genruntimeconfig.cache
 C:\Users\DELL\Downloads\Documents\CPS\DOTNET_01\CodeTrenLop\BUOI24_BLAZOR\web_blazor_server\obj\Debug\net8.0\ref\web_blazor_server.dll
+C:\Users\DELL\Downloads\Documents\CPS\DOTNET_01\CodeTrenLop\BUOI24_BLAZOR\web_blazor_server\bin\Debug\net8.0\package-lock.json
+C:\Users\DELL\Downloads\Documents\CPS\DOTNET_01\CodeTrenLop\BUOI24_BLAZOR\web_blazor_server\bin\Debug\net8.0\package.json
