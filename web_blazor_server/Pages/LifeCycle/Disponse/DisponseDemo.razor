@@ -12,12 +12,13 @@
 @code{
     public int countDown{get;set;} = 10;
     public Timer timer;
-    protected override async Task OnInitializedAsync(){
+    protected override Task OnInitializedAsync(){
         timer = new Timer((state) => {
             countDown--;
             Console.WriteLine(countDown);
             InvokeAsync(StateHasChanged);
         },null,0,1000);
+        return Task.CompletedTask;
     }
 
 

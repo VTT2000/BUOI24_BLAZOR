@@ -1,16 +1,10 @@
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
 using AutoMapper;
 using Microsoft.AspNetCore.Builder;
-using Microsoft.AspNetCore.Components;
 using Microsoft.AspNetCore.Hosting;
-using Microsoft.AspNetCore.HttpsPolicy;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
-using web_blazor_server.Data;
+using web_blazor_server.Services;
 
 namespace web_blazor_server
 {
@@ -29,12 +23,14 @@ namespace web_blazor_server
         {
             services.AddRazorPages();
             services.AddServerSideBlazor();
-            services.AddSingleton<WeatherForecastService>();
             //Thư viện auto mapper
             services.AddAutoMapper(typeof(Startup));
             services.AddScoped<IMapper, Mapper>();
             //http client để gọi api
             services.AddHttpClient();
+            //Khai báo service (DI)
+            services.AddScoped<CountService>();
+            services.AddScoped<CryptoService>();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.

@@ -50,10 +50,11 @@
     public string Id { get; set; }
     public ProductModel ProdDetail = new ProductModel();
     public List<ProductModel> lstProduct = new List<ProductModel>();
-    protected override async Task OnInitializedAsync()
+    protected override Task OnInitializedAsync()
     {
         //Hàm sẽ chạy sau khi html của component được render (chạy 1 lần sau khi html được khởi tạo)
         GetAllProduct();
+        return Task.CompletedTask;
     }
     public override async Task SetParametersAsync(ParameterView param){
         //Chạy mỗi khi có tham số [Parameter] của component thay đổi
