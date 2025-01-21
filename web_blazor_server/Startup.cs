@@ -32,6 +32,10 @@ namespace web_blazor_server
             services.AddScoped<CountService>();
             services.AddScoped<CryptoService>();
             services.AddScoped<ProductService>();
+            services.AddScoped<RoomService>();
+
+            //add service signalr
+            services.AddSignalR();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
@@ -55,6 +59,7 @@ namespace web_blazor_server
 
             app.UseEndpoints(endpoints =>
             {
+                endpoints.MapHub<RoomHubs>("/room-hub");
                 endpoints.MapBlazorHub();
                 endpoints.MapFallbackToPage("/_Host");
             });
