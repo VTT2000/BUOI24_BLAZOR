@@ -22,6 +22,14 @@ build_property._RazorSourceGeneratorDebug =
 build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/DELL/Downloads/Documents/CPS/DOTNET_01/CodeTrenLop/BUOI24_BLAZOR/web_blazor_server/Pages/AddNewProduct.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRkTmV3UHJvZHVjdC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/DELL/Downloads/Documents/CPS/DOTNET_01/CodeTrenLop/BUOI24_BLAZOR/web_blazor_server/Pages/CateProduct.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2F0ZVByb2R1Y3QucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/DELL/Downloads/Documents/CPS/DOTNET_01/CodeTrenLop/BUOI24_BLAZOR/web_blazor_server/Pages/ComponentParam.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ29tcG9uZW50UGFyYW0ucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
@@ -110,6 +118,10 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUGFyYW1FdmVudENhbGxiYWNrXFByb2R1Y3REZXRhaWwucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/DELL/Downloads/Documents/CPS/DOTNET_01/CodeTrenLop/BUOI24_BLAZOR/web_blazor_server/Pages/ProductDetail.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJvZHVjdERldGFpbC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/DELL/Downloads/Documents/CPS/DOTNET_01/CodeTrenLop/BUOI24_BLAZOR/web_blazor_server/Pages/RefDemo/PersonCard.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUmVmRGVtb1xQZXJzb25DYXJkLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
@@ -120,6 +132,10 @@ build_metadata.AdditionalFiles.CssScope =
 
 [C:/Users/DELL/Downloads/Documents/CPS/DOTNET_01/CodeTrenLop/BUOI24_BLAZOR/web_blazor_server/Pages/Register.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUmVnaXN0ZXIucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/DELL/Downloads/Documents/CPS/DOTNET_01/CodeTrenLop/BUOI24_BLAZOR/web_blazor_server/Pages/Search.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2VhcmNoLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/DELL/Downloads/Documents/CPS/DOTNET_01/CodeTrenLop/BUOI24_BLAZOR/web_blazor_server/Pages/StateManagement/ButtonCount.razor]

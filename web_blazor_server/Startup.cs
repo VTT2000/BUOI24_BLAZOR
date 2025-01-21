@@ -31,6 +31,7 @@ namespace web_blazor_server
             //Khai báo service (DI)
             services.AddScoped<CountService>();
             services.AddScoped<CryptoService>();
+            services.AddScoped<ProductService>();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
