@@ -1,9 +1,15 @@
+using System;
+using System.Security.Claims;
+using System.Text;
 using AutoMapper;
+using Blazored.LocalStorage;
 using Microsoft.AspNetCore.Builder;
+using Microsoft.AspNetCore.Components.Authorization;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
+using Microsoft.IdentityModel.Tokens;
 using web_blazor_server.Services;
 
 namespace web_blazor_server
@@ -33,9 +39,40 @@ namespace web_blazor_server
             services.AddScoped<CryptoService>();
             services.AddScoped<ProductService>();
             services.AddScoped<RoomService>();
-
             //add service signalr
             services.AddSignalR();
+            //Định nghĩa token jwt
+            var privateKey = Configuration["jwt:private-key"];
+            var Issuer = Configuration["jwt:Issuer"];
+            var Audience = Configuration["jwt:Audience"];
+            services.AddAuthentication("Bearer").AddJwtBearer(option =>
+            {
+                option.TokenValidationParameters = new TokenValidationParameters()
+                {
+                    ValidateIssuer = true,
+                    ValidIssuer = Issuer,
+                    ValidateAudience = true,
+                    ValidAudience = Audience,
+                    ValidateIssuerSigningKey = true,
+                    IssuerSigningKey = new SymmetricSecurityKey(Encoding.UTF8.GetBytes(privateKey)),
+                    ClockSkew = TimeSpan.Zero,
+                    RoleClaimType = ClaimTypes.Role, 
+                    NameClaimType = ClaimTypes.Name,
+                    //Verify thời gian token
+                    ValidateLifetime = true
+                };
+            });
+            //Add service jwt token
+            services.AddScoped<JwtAuthService>();
+            //Đăng ký AuthenticationStateProvider tùy chỉnh
+            services.AddScoped<AuthenticationStateProvider, CustomAuthStateProvider>();
+            //Sử dụng blazor storage
+            services.AddBlazoredLocalStorage();
+
+
+            
+            
+
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
@@ -55,7 +92,12 @@ namespace web_blazor_server
             app.UseHttpsRedirection();
             app.UseStaticFiles();
 
+            //Xác thực(Authentication) và phân quyền (Authorization)
+            app.UseAuthentication(); //xác thực
             app.UseRouting();
+            
+            app.UseAuthorization();  //check role phân quyền
+
 
             app.UseEndpoints(endpoints =>
             {
